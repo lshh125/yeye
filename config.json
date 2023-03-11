@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright Yushan Liang, all rights reserved.    版权所有 梁玉善，保留所有权利",
   "usage-stats": false
 }
